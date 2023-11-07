@@ -1,2 +1,2 @@
 # My-Project
-for elzero wep school
+for elzero web school
